@@ -5,7 +5,16 @@ An Intelligent EOD Stock &amp; Financial News, and Social Media Stock Sentiment 
 #### Documentation
 
     Welcome to our *Stock Market &amp; Financial News API* documentation. 
+    
+#### Gateway - Server
 
+    [https://gateway.eod-stock-api.site](https://gateway.eod-stock-api.site)
+
+#### EOD Stock Market API
+
+    [https://eod-stock-api.site](https://eod-stock-api.site)
+
+    
 **Stock Marketing & Financial News API**,
 
     provides end-of-day stock information for multiple exchanges around the world. 
