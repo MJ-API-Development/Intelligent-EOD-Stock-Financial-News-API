@@ -1,5 +1,6 @@
-# Intelligent-EOD-Stock-Financial-News-API
-An Intelligent EOD Stock &amp; Financial News, and Social Media Stock Sentiment Analysis API
+# Intelligent EOD Stock Market, Financial News & Social Media Trends API
+
+An Intelligent EOD Stock, Financial News, and Social Media Stock Sentiment Analysis API
 
 
 #### Documentation
