@@ -176,4 +176,8 @@ An Intelligent EOD Stock, Financial News, and Social Media Stock Sentiment Analy
                "status": true
         }
 
+## Community
 
+- [Slack Channel](https://join.slack.com/t/eod-stock-apisite/shared_invite/zt-1uelcf229-c_6QAgWFNyVfXKZr1hYYoQ)
+- [StackOverflow](https://stackoverflowteams.com/c/eod-stock-market-api)
+- [Quora](https://eodstockmarketapi.quora.com/)
